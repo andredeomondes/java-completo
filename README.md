@@ -65,7 +65,7 @@ Este repositório contém todos os materiais e exercícios desenvolvidos durante
 - 📚 **Aula 35**: Estrutura condicional (if-else)  
 - ⚠️ **Aula 36**: **AVISO**: Exercícios para iniciantes - PARTE 2  
 - 📚 **Aula 37**: Exercícios para iniciantes - PARTE 2  
-    - [Link para a pasta de exercícios](#)  
+    - [Link para a pasta de exercícios](https://github.com/andredeomondes/java-completo/tree/main/s05c37_estrutura_condicional)  
 - 📚 **Aula 38**: Sintaxe opcional - Operadores de atribuição cumulativa  
 - 📚 **Aula 40**: Expressão condicional ternária  
 - 📚 **Aula 41**: Escopo e inicialização
@@ -81,14 +81,14 @@ Este repositório contém todos os materiais e exercícios desenvolvidos durante
 - 📚 **Aula 47**: Exercícios de teste de mesa com *while*  
 - ⚠️ **Aula 48**: **AVISO**: Exercícios para iniciantes - PARTE 3  
 - 📚 **Aula 49**: Exercícios para iniciantes - PARTE 3  
-    - [Link para a pasta de exercícios](#)  
+    - [Link para a pasta de exercícios](https://github.com/andredeomondes/java-completo/tree/main/s06c49_estruturas_repetitivas_parte1)  
 - 📚 **Aula 50**: Estrutura repetitiva *for*  
 - 📚 **Aula 51**: Teste de mesa com estrutura repetitiva *for*  
 - 📚 **Aula 52**: Exercícios de testes de mesa com *for*  
 - ⚠️ **Aula 53**: **AVISO**: Exercícios para iniciantes - PARTE 4  
 - 📚 **Aula 54**: Exercícios para iniciantes - PARTE 4  
 - 📚 **Aula 55**: Estrutura repetitiva *do-while*  
-    - [Link para a pasta de exercícios](#)
+    - [Link para a pasta de exercícios](https://github.com/andredeomondes/java-completo/tree/main/s06c55_estruturas_repetitivas_parte2)
 
 ---
 
