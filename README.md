@@ -34,7 +34,7 @@ Bem-vindo ao repositório do curso **Java COMPLETO Programação Orientada a Obj
 - 📚 **Aula 18**: Primeiro programa em Java no IntelliJ IDEA  
     - [Link para a pasta de exercícios](https://github.com/andredeomondes/java-completo/tree/main/s03c18_introducao/primeiro-programa)
 
-### 4️⃣ **Seção 04 - Fundamentos de Programação**
+### 4️⃣ **Seção 04 - Estrutura Sequencial**
 - 📚 **Aula 19**: Expressões aritméticas
 - 📚 **Aula 20**: Variáveis e tipos básicos em Java
 - 📚 **Aula 21**: As três operações básicas de programação
@@ -45,7 +45,28 @@ Bem-vindo ao repositório do curso **Java COMPLETO Programação Orientada a Obj
 - 📚 **Aula 26**: Funções matemáticas em Java
 - ⚠️ **Aula 27**: **AVISO**: Exercícios para iniciantes PARTE 1
 - 📚 **Aula 28**: Exercícios para Iniciantes - PARTE 1  
-    - [Link para a pasta de exercícios](https://github.com/andredeomondes/java-completo)
+    - [Link para a pasta de exercícios](https://github.com/andredeomondes/java-completo/tree/main/s04c30_estrutura_sequencial)
+
+### 4️⃣ **Seção 05 - Estrutura Condicional**
+- 📚 **Aula 31**: Visão geral do capítulo
+- 📚 **Aula 32**: Material de apoio do capítulo
+- 📚 **Aula 33**: Expressões comparativas
+- 📚 **Aula 34**: Expressões lógicas
+- 📚 **Aula 35**: Estrutura condicional (if-else)
+- ⚠️ **Aula 36**: **AVISO**: Exercícios para iniciantes PARTE 2
+- 📚 **Aula 37**: Exercícios para Iniciantes - PARTE 2  
+    - [Link para a pasta de exercícios](#)
+- 📚 **Aula 38**: Sintaxe opcional - operadores de atribuição cumulativa
+- 📚 **Aula 40**: Expressão condicional ternária
+- 📚 **Aula 41**: Escopo e inicialização
+
+
+
+### EM ANDAMENTO
+
+
+
+
 
 ---
 
