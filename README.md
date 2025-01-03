@@ -1,124 +1,101 @@
-# 🚀 Java COMPLETO Programação Orientada a Objetos + Projetos
+# 🚀 **Java COMPLETO: Programação Orientada a Objetos + Projetos**
 
 ![Logo Java](https://i.redd.it/1r6z9ip45i861.png)
 
-Bem-vindo ao repositório do curso **Java COMPLETO Programação Orientada a Objetos + Projetos**! 🎓 Este repositório contém todos os materiais e exercícios desenvolvidos durante o curso, com o objetivo de ensinar Java desde os conceitos iniciais até a construção de projetos completos utilizando a programação orientada a objetos.
+Bem-vindo ao repositório do curso **Java COMPLETO: Programação Orientada a Objetos + Projetos**! 🎓
+
+Este repositório contém todos os materiais e exercícios desenvolvidos durante o curso, com o objetivo de ensinar Java desde os conceitos iniciais até a construção de projetos completos utilizando a programação orientada a objetos.
 
 ---
 
-## 📑 Índice do Curso
+## 📑 **Índice do Curso**
 
-<details>
-  <summary>1️⃣ Seção 01 - Introdução</summary>
-  - 📚 **Aula 01**: Introdução: Visão geral do curso  
-  <br>
-  - 📚 **Aula 02**: Mapa de estudos da carreira Java
-</details>
+### 1️⃣ **Seção 01 - Introdução**
+- 📚 **Aula 01**: Introdução: Visão geral do curso  
+- 📚 **Aula 02**: Mapa de estudos da carreira Java
 
-<br>
+---
 
-<details>
-  <summary>2️⃣ Seção 02 - Fundamentos da Programação em Java</summary>
-  - 📚 **Aula 03**: Visão geral do capítulo  
-  <br>
-  - 📚 **Aula 04**: Material de apoio do capítulo  
-  <br>
-  - 📚 **Aula 05**: Algoritmo, Automação, Programa de Computador  
-  <br>
-  - 📚 **Aula 06**: O que é preciso para se fazer um programa de computador  
-  <br>
-  - 📚 **Aula 07**: Linguagem de programação, léxica, sintática  
-  <br>
-  - 📚 **Aula 08**: IDE - Ambiente Integrado de Desenvolvimento  
-  <br>
-  - 📚 **Aula 09**: Compilação, interpretação, código fonte, código objeto, máquina virtual
-</details>
+### 2️⃣ **Seção 02 - Fundamentos da Programação em Java**
+- 📚 **Aula 03**: Visão geral do capítulo  
+- 📚 **Aula 04**: Material de apoio do capítulo  
+- 📚 **Aula 05**: Algoritmo, Automação e Programa de Computador  
+- 📚 **Aula 06**: O que é preciso para criar um programa de computador  
+- 📚 **Aula 07**: Linguagem de programação, léxica e sintática  
+- 📚 **Aula 08**: IDE - Ambiente Integrado de Desenvolvimento  
+- 📚 **Aula 09**: Compilação, interpretação, código-fonte, código-objeto e máquina virtual
 
-<br>
+---
 
-<details>
-  <summary>3️⃣ Seção 03 - Começando com Java</summary>
-  - 📚 **Aula 10**: Visão geral do capítulo  
-  <br>
-  - 📚 **Aula 11**: Material de apoio do capítulo  
-  <br>
-  - 📚 **Aula 12**: Entendendo as versões do Java  
-  <br>
-  - 📚 **Aula 13**: Histórico e edições de Java  
-  <br>
-  - 📚 **Aula 14**: JDK / JVM - Máquina Virtual do Java  
-  <br>
-  - 📚 **Aula 15**: Estrutura de uma aplicação Java  
-  <br>
-  - 📚 **Aula 16**: Instalando o Java JDK  
-  <br>
-  - 📚 **Aula 17**: Instalando o IntelliJ IDEA  
+### 3️⃣ **Seção 03 - Começando com Java**
+- 📚 **Aula 10**: Visão geral do capítulo  
+- 📚 **Aula 11**: Material de apoio do capítulo  
+- 📚 **Aula 12**: Entendendo as versões do Java  
+- 📚 **Aula 13**: Histórico e edições do Java  
+- 📚 **Aula 14**: JDK / JVM - Máquina Virtual do Java  
+- 📚 **Aula 15**: Estrutura de uma aplicação Java  
+- 📚 **Aula 16**: Instalando o Java JDK  
+- 📚 **Aula 17**: Instalando o IntelliJ IDEA  
     - [Guia de instalação do IntelliJ IDEA](https://www.jetbrains.com/idea/download/)  
-  <br>
-  - 📚 **Aula 18**: Primeiro programa em Java no IntelliJ IDEA  
+- 📚 **Aula 18**: Primeiro programa em Java no IntelliJ IDEA  
     - [Link para a pasta de exercícios](https://github.com/andredeomondes/java-completo/tree/main/s03c18_introducao/primeiro-programa)
-</details>
-
-<br>
-
-<details>
-  <summary>4️⃣ Seção 04 - Estrutura Sequencial</summary>
-  - 📚 **Aula 19**: Expressões aritméticas  
-  <br>
-  - 📚 **Aula 20**: Variáveis e tipos básicos em Java  
-  <br>
-  - 📚 **Aula 21**: As três operações básicas de programação  
-  <br>
-  - 📚 **Aula 22**: Saída de dados em Java  
-  <br>
-  - 📚 **Aula 23**: Processamento de dados em Java, Casting  
-  <br>
-  - 📚 **Aula 24**: Entrada de dados em Java - Parte 1  
-  <br>
-  - 📚 **Aula 25**: Entrada de dados em Java - Parte 2  
-  <br>
-  - 📚 **Aula 26**: Funções matemáticas em Java  
-  <br>
-  - ⚠️ **Aula 27**: **AVISO**: Exercícios para iniciantes PARTE 1  
-  <br>
-  - 📚 **Aula 28**: Exercícios para Iniciantes - PARTE 1  
-    - [Link para a pasta de exercícios](https://github.com/andredeomondes/java-completo/tree/main/s04c30_estrutura_sequencial)
-</details>
-
-<br>
-
-<details>
-  <summary>5️⃣ Seção 05 - Estrutura Condicional</summary>
-  - 📚 **Aula 31**: Visão geral do capítulo  
-  <br>
-  - 📚 **Aula 32**: Material de apoio do capítulo  
-  <br>
-  - 📚 **Aula 33**: Expressões comparativas  
-  <br>
-  - 📚 **Aula 34**: Expressões lógicas  
-  <br>
-  - 📚 **Aula 35**: Estrutura condicional (if-else)  
-  <br>
-  - ⚠️ **Aula 36**: **AVISO**: Exercícios para iniciantes PARTE 2  
-  <br>
-  - 📚 **Aula 37**: Exercícios para Iniciantes - PARTE 2  
-    - [Link para a pasta de exercícios](#)  
-  <br>
-  - 📚 **Aula 38**: Sintaxe opcional - operadores de atribuição cumulativa  
-  <br>
-  - 📚 **Aula 40**: Expressão condicional ternária  
-  <br>
-  - 📚 **Aula 41**: Escopo e inicialização
-</details>
-
-### EM ANDAMENTO
 
 ---
 
-## 🛠 Como Utilizar o Repositório
+### 4️⃣ **Seção 04 - Estrutura Sequencial**
+- 📚 **Aula 19**: Expressões aritméticas  
+- 📚 **Aula 20**: Variáveis e tipos básicos em Java  
+- 📚 **Aula 21**: As três operações básicas de programação  
+- 📚 **Aula 22**: Saída de dados em Java  
+- 📚 **Aula 23**: Processamento de dados em Java, Casting  
+- 📚 **Aula 24**: Entrada de dados em Java - Parte 1  
+- 📚 **Aula 25**: Entrada de dados em Java - Parte 2  
+- 📚 **Aula 26**: Funções matemáticas em Java  
+- ⚠️ **Aula 27**: **AVISO**: Exercícios para iniciantes - PARTE 1  
+- 📚 **Aula 28**: Exercícios para iniciantes - PARTE 1  
+    - [Link para a pasta de exercícios](https://github.com/andredeomondes/java-completo/tree/main/s04c30_estrutura_sequencial)
+
+---
+
+### 5️⃣ **Seção 05 - Estrutura Condicional**
+- 📚 **Aula 31**: Visão geral do capítulo  
+- 📚 **Aula 32**: Material de apoio do capítulo  
+- 📚 **Aula 33**: Expressões comparativas  
+- 📚 **Aula 34**: Expressões lógicas  
+- 📚 **Aula 35**: Estrutura condicional (if-else)  
+- ⚠️ **Aula 36**: **AVISO**: Exercícios para iniciantes - PARTE 2  
+- 📚 **Aula 37**: Exercícios para iniciantes - PARTE 2  
+    - [Link para a pasta de exercícios](#)  
+- 📚 **Aula 38**: Sintaxe opcional - Operadores de atribuição cumulativa  
+- 📚 **Aula 40**: Expressão condicional ternária  
+- 📚 **Aula 41**: Escopo e inicialização
+
+---
+
+### 6️⃣ **Seção 06 - Estruturas Repetitivas**
+- 📚 **Aula 42**: Visão geral do capítulo  
+- 📚 **Aula 43**: Material de apoio do capítulo  
+- 📚 **Aula 44**: Como utilizar o DEBUG no Eclipse (execução passo a passo)  
+- 📚 **Aula 45**: Estrutura repetitiva *while*  
+- 📚 **Aula 46**: Teste de mesa com estrutura repetitiva *while*  
+- 📚 **Aula 47**: Exercícios de teste de mesa com *while*  
+- ⚠️ **Aula 48**: **AVISO**: Exercícios para iniciantes - PARTE 3  
+- 📚 **Aula 49**: Exercícios para iniciantes - PARTE 3  
+    - [Link para a pasta de exercícios](#)  
+- 📚 **Aula 50**: Estrutura repetitiva *for*  
+- 📚 **Aula 51**: Teste de mesa com estrutura repetitiva *for*  
+- 📚 **Aula 52**: Exercícios de testes de mesa com *for*  
+- ⚠️ **Aula 53**: **AVISO**: Exercícios para iniciantes - PARTE 4  
+- 📚 **Aula 54**: Exercícios para iniciantes - PARTE 4  
+- 📚 **Aula 55**: Estrutura repetitiva *do-while*  
+    - [Link para a pasta de exercícios](#)
+
+---
+
+## 🛠 **Como Utilizar o Repositório**
 
 1. **Clone o repositório**  
-   Para começar a trabalhar com os exercícios e materiais, clone este repositório em sua máquina local.
+   Para começar a trabalhar com os exercícios e materiais, clone este repositório para sua máquina local.
 
    ```bash
    git clone https://github.com/andredeomondes/java-completo.git
