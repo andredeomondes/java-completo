@@ -86,9 +86,9 @@ Este repositório contém todos os materiais e exercícios desenvolvidos durante
 - 📚 **Aula 51**: Teste de mesa com estrutura repetitiva *for*  
 - 📚 **Aula 52**: Exercícios de testes de mesa com *for*  
 - ⚠️ **Aula 53**: **AVISO**: Exercícios para iniciantes - PARTE 4  
-- 📚 **Aula 54**: Exercícios para iniciantes - PARTE 4  
+- 📚 **Aula 54**: Exercícios para iniciantes - PARTE 4
+      - [Link para a pasta de exercícios](https://github.com/andredeomondes/java-completo/tree/main/s06c55_estruturas_repetitivas_parte2)
 - 📚 **Aula 55**: Estrutura repetitiva *do-while*  
-    - [Link para a pasta de exercícios](https://github.com/andredeomondes/java-completo/tree/main/s06c55_estruturas_repetitivas_parte2)
 
 ---
 
