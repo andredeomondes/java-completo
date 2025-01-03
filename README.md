@@ -119,6 +119,22 @@ Este repositório contém todos os materiais e exercícios desenvolvidos durante
 
 ---
 
+### 9️⃣ **Seção 09 - Construtores, `this`, Sobrecarga e Encapsulamento**
+- 📚 **Aula 74**: Visão geral do capítulo  
+- 📚 **Aula 75**: Material de apoio do capítulo  
+- 📚 **Aula 76**: Construtores  
+- 📚 **Aula 77**: Palavra `this`  
+- 📚 **Aula 78**: Sobrecarga  
+- 📚 **Aula 79**: Encapsulamento  
+- 📚 **Aula 80**: Gerando automaticamente construtores, getters e setters com Eclipse  
+- 📚 **Aula 81**: Modificadores de acesso  
+- 📚 **Aula 82**: Exercício de fixação  
+    - [Link para a pasta de exercícios](https://github.com/andredeomondes/java-completo/tree/main/s09c82_construtores_this_sobrecarga_encapsulamento)  
+- 📚 **Aula 83**: Correção do exercício de fixação - Parte 1  
+- 📚 **Aula 84**: Correção do exercício de fixação - Parte 2
+
+---
+
 ## 🛠 **Como Utilizar o Repositório**
 
 1. **Clone o repositório**  
