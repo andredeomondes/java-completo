@@ -86,9 +86,36 @@ Este repositório contém todos os materiais e exercícios desenvolvidos durante
 - 📚 **Aula 51**: Teste de mesa com estrutura repetitiva *for*  
 - 📚 **Aula 52**: Exercícios de testes de mesa com *for*  
 - ⚠️ **Aula 53**: **AVISO**: Exercícios para iniciantes - PARTE 4  
-- 📚 **Aula 54**: Exercícios para iniciantes - PARTE 4
-      - [Link para a pasta de exercícios](https://github.com/andredeomondes/java-completo/tree/main/s06c55_estruturas_repetitivas_parte2)
-- 📚 **Aula 55**: Estrutura repetitiva *do-while*  
+- 📚 **Aula 54**: Exercícios para iniciantes - PARTE 4  
+      - [Link para a pasta de exercícios](https://github.com/andredeomondes/java-completo/tree/main/s06c55_estruturas_repetitivas_parte2)  
+- 📚 **Aula 55**: Estrutura repetitiva *do-while*
+
+---
+
+### 7️⃣ **Seção 07 - Outros Tópicos Básicos sobre Java**
+- 📚 **Aula 56**: Material de apoio do capítulo  
+- 📚 **Aula 57**: Restrições e convenções para nomes  
+- 📚 **Aula 58**: Operadores bitwise  
+- 📚 **Aula 59**: Funções interessantes para String  
+- 📚 **Aula 60**: Comentários em Java (básico)  
+- 📚 **Aula 61**: Funções (sintaxe)
+
+---
+
+### 8️⃣ **Seção 08 - Introdução à Programação Orientada a Objetos (POO)**
+- 📚 **Aula 62**: Visão geral do capítulo  
+- 📚 **Aula 63**: Material de apoio do capítulo  
+- 📚 **Aula 64**: Resolvendo um problema sem orientação a objetos  
+- 📚 **Aula 65**: Criando uma classe com três atributos para representar melhor o triângulo  
+- 📚 **Aula 66**: Criando um método para obtermos os benefícios de reaproveitamento e delegação  
+- 📚 **Aula 67**: Começando a resolver um segundo problema exemplo  
+- 📚 **Aula 68**: `Object` e `toString`  
+- 📚 **Aula 69**: Finalizando o programa  
+- 📚 **Aula 70**: Exercícios de fixação  
+    - [Link para a pasta de exercícios](https://github.com/andredeomondes/java-completo/tree/main/s08c70_exercicios_fixacao)
+- 📚 **Aula 71**: Membros estáticos - Parte 1  
+- 📚 **Aula 72**: Membros estáticos - Parte 2  
+- 📚 **Aula 73**: Exercício de fixação
 
 ---
 
