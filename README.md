@@ -8,65 +8,69 @@ Bem-vindo ao repositório do curso **Java COMPLETO Programação Orientada a Obj
 
 ## 📑 Índice do Curso
 
-### 1️⃣ **Seção 01 - Introdução**
-- 📚 **Aula 01**: Introdução: Visão geral do curso
-- 📚 **Aula 02**: Mapa de estudos da carreira Java
+<details>
+  <summary>1️⃣ Seção 01 - Introdução</summary>
+  - 📚 **Aula 01**: Introdução: Visão geral do curso
+  - 📚 **Aula 02**: Mapa de estudos da carreira Java
+</details>
 
-### 2️⃣ **Seção 02 - Fundamentos da Programação em Java**
-- 📚 **Aula 03**: Visão geral do capítulo
-- 📚 **Aula 04**: Material de apoio do capítulo
-- 📚 **Aula 05**: Algoritmo, Automação, Programa de Computador
-- 📚 **Aula 06**: O que é preciso para se fazer um programa de computador
-- 📚 **Aula 07**: Linguagem de programação, léxica, sintática
-- 📚 **Aula 08**: IDE - Ambiente Integrado de Desenvolvimento
-- 📚 **Aula 09**: Compilação, interpretação, código fonte, código objeto, máquina virtual
+<details>
+  <summary>2️⃣ Seção 02 - Fundamentos da Programação em Java</summary>
+  - 📚 **Aula 03**: Visão geral do capítulo
+  - 📚 **Aula 04**: Material de apoio do capítulo
+  - 📚 **Aula 05**: Algoritmo, Automação, Programa de Computador
+  - 📚 **Aula 06**: O que é preciso para se fazer um programa de computador
+  - 📚 **Aula 07**: Linguagem de programação, léxica, sintática
+  - 📚 **Aula 08**: IDE - Ambiente Integrado de Desenvolvimento
+  - 📚 **Aula 09**: Compilação, interpretação, código fonte, código objeto, máquina virtual
+</details>
 
-### 3️⃣ **Seção 03 - Começando com Java**
-- 📚 **Aula 10**: Visão geral do capítulo
-- 📚 **Aula 11**: Material de apoio do capítulo
-- 📚 **Aula 12**: Entendendo as versões do Java
-- 📚 **Aula 13**: Histórico e edições de Java
-- 📚 **Aula 14**: JDK / JVM - Máquina Virtual do Java
-- 📚 **Aula 15**: Estrutura de uma aplicação Java
-- 📚 **Aula 16**: Instalando o Java JDK
-- 📚 **Aula 17**: Instalando o IntelliJ IDEA
+<details>
+  <summary>3️⃣ Seção 03 - Começando com Java</summary>
+  - 📚 **Aula 10**: Visão geral do capítulo
+  - 📚 **Aula 11**: Material de apoio do capítulo
+  - 📚 **Aula 12**: Entendendo as versões do Java
+  - 📚 **Aula 13**: Histórico e edições de Java
+  - 📚 **Aula 14**: JDK / JVM - Máquina Virtual do Java
+  - 📚 **Aula 15**: Estrutura de uma aplicação Java
+  - 📚 **Aula 16**: Instalando o Java JDK
+  - 📚 **Aula 17**: Instalando o IntelliJ IDEA
     - [Guia de instalação do IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
-- 📚 **Aula 18**: Primeiro programa em Java no IntelliJ IDEA  
+  - 📚 **Aula 18**: Primeiro programa em Java no IntelliJ IDEA  
     - [Link para a pasta de exercícios](https://github.com/andredeomondes/java-completo/tree/main/s03c18_introducao/primeiro-programa)
+</details>
 
-### 4️⃣ **Seção 04 - Estrutura Sequencial**
-- 📚 **Aula 19**: Expressões aritméticas
-- 📚 **Aula 20**: Variáveis e tipos básicos em Java
-- 📚 **Aula 21**: As três operações básicas de programação
-- 📚 **Aula 22**: Saída de dados em Java
-- 📚 **Aula 23**: Processamento de dados em Java, Casting
-- 📚 **Aula 24**: Entrada de dados em Java - Parte 1
-- 📚 **Aula 25**: Entrada de dados em Java - Parte 2
-- 📚 **Aula 26**: Funções matemáticas em Java
-- ⚠️ **Aula 27**: **AVISO**: Exercícios para iniciantes PARTE 1
-- 📚 **Aula 28**: Exercícios para Iniciantes - PARTE 1  
+<details>
+  <summary>4️⃣ Seção 04 - Estrutura Sequencial</summary>
+  - 📚 **Aula 19**: Expressões aritméticas
+  - 📚 **Aula 20**: Variáveis e tipos básicos em Java
+  - 📚 **Aula 21**: As três operações básicas de programação
+  - 📚 **Aula 22**: Saída de dados em Java
+  - 📚 **Aula 23**: Processamento de dados em Java, Casting
+  - 📚 **Aula 24**: Entrada de dados em Java - Parte 1
+  - 📚 **Aula 25**: Entrada de dados em Java - Parte 2
+  - 📚 **Aula 26**: Funções matemáticas em Java
+  - ⚠️ **Aula 27**: **AVISO**: Exercícios para iniciantes PARTE 1
+  - 📚 **Aula 28**: Exercícios para Iniciantes - PARTE 1  
     - [Link para a pasta de exercícios](https://github.com/andredeomondes/java-completo/tree/main/s04c30_estrutura_sequencial)
+</details>
 
-### 4️⃣ **Seção 05 - Estrutura Condicional**
-- 📚 **Aula 31**: Visão geral do capítulo
-- 📚 **Aula 32**: Material de apoio do capítulo
-- 📚 **Aula 33**: Expressões comparativas
-- 📚 **Aula 34**: Expressões lógicas
-- 📚 **Aula 35**: Estrutura condicional (if-else)
-- ⚠️ **Aula 36**: **AVISO**: Exercícios para iniciantes PARTE 2
-- 📚 **Aula 37**: Exercícios para Iniciantes - PARTE 2  
+<details>
+  <summary>5️⃣ Seção 05 - Estrutura Condicional</summary>
+  - 📚 **Aula 31**: Visão geral do capítulo
+  - 📚 **Aula 32**: Material de apoio do capítulo
+  - 📚 **Aula 33**: Expressões comparativas
+  - 📚 **Aula 34**: Expressões lógicas
+  - 📚 **Aula 35**: Estrutura condicional (if-else)
+  - ⚠️ **Aula 36**: **AVISO**: Exercícios para iniciantes PARTE 2
+  - 📚 **Aula 37**: Exercícios para Iniciantes - PARTE 2  
     - [Link para a pasta de exercícios](#)
-- 📚 **Aula 38**: Sintaxe opcional - operadores de atribuição cumulativa
-- 📚 **Aula 40**: Expressão condicional ternária
-- 📚 **Aula 41**: Escopo e inicialização
-
-
+  - 📚 **Aula 38**: Sintaxe opcional - operadores de atribuição cumulativa
+  - 📚 **Aula 40**: Expressão condicional ternária
+  - 📚 **Aula 41**: Escopo e inicialização
+</details>
 
 ### EM ANDAMENTO
-
-
-
-
 
 ---
 
