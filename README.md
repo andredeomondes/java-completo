@@ -112,7 +112,7 @@ Este repositório contém todos os materiais e exercícios desenvolvidos durante
 - 📚 **Aula 68**: `Object` e `toString`  
 - 📚 **Aula 69**: Finalizando o programa  
 - 📚 **Aula 70**: Exercícios de fixação  
-    - [Link para a pasta de exercícios](https://github.com/andredeomondes/java-completo/tree/main/s08c70_exercicios_fixacao)
+    - [Link para a pasta de exercícios](https://github.com/andredeomondes/java-completo/tree/main/s08c70_introducao_poo)
 - 📚 **Aula 71**: Membros estáticos - Parte 1  
 - 📚 **Aula 72**: Membros estáticos - Parte 2  
 - 📚 **Aula 73**: Exercício de fixação
