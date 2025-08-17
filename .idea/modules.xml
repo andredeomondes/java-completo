@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_01_negativos/ex_01_negativos.iml" filepath="$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_01_negativos/ex_01_negativos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_02_soma_vetor/ex_02_soma_vetor.iml" filepath="$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_02_soma_vetor/ex_02_soma_vetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_03_alturas/ex_03_alturas.iml" filepath="$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_03_alturas/ex_03_alturas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_04_numeros_pares/ex_04_numeros_pares.iml" filepath="$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_04_numeros_pares/ex_04_numeros_pares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_05_maior_posicao/ex_05_maior_posicao.iml" filepath="$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_05_maior_posicao/ex_05_maior_posicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_06_soma_vetores/ex_06_soma_vetores.iml" filepath="$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_06_soma_vetores/ex_06_soma_vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_07_abaixo_da_media/ex_07_abaixo_da_media.iml" filepath="$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_07_abaixo_da_media/ex_07_abaixo_da_media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_08_media_pares/ex_08_media_pares.iml" filepath="$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_08_media_pares/ex_08_media_pares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_10_mais_velho/ex_10_mais_velho.iml" filepath="$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_10_mais_velho/ex_10_mais_velho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_11_aprovados/ex_11_aprovados.iml" filepath="$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_11_aprovados/ex_11_aprovados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_12_dados_pessoas/ex_12_dados_pessoas.iml" filepath="$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/ex_12_dados_pessoas/ex_12_dados_pessoas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s08c70_introducao_poo/exercicio001/exercicio001.iml" filepath="$PROJECT_DIR$/s08c70_introducao_poo/exercicio001/exercicio001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s08c70_introducao_poo/exercicio002/exercicio002.iml" filepath="$PROJECT_DIR$/s08c70_introducao_poo/exercicio002/exercicio002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s04c30_estrutura_sequencial/exercicio003/exercicio003.iml" filepath="$PROJECT_DIR$/s04c30_estrutura_sequencial/exercicio003/exercicio003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s04c30_estrutura_sequencial/exercicio004/exercicio004.iml" filepath="$PROJECT_DIR$/s04c30_estrutura_sequencial/exercicio004/exercicio004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s04c30_estrutura_sequencial/exercicio005/exercicio005.iml" filepath="$PROJECT_DIR$/s04c30_estrutura_sequencial/exercicio005/exercicio005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s04c30_estrutura_sequencial/exercicio006/exercicio006.iml" filepath="$PROJECT_DIR$/s04c30_estrutura_sequencial/exercicio006/exercicio006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s05c37_estrutura_condicional/exercicio007/exercicio007.iml" filepath="$PROJECT_DIR$/s05c37_estrutura_condicional/exercicio007/exercicio007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s05c37_estrutura_condicional/exercicio008/exercicio008.iml" filepath="$PROJECT_DIR$/s05c37_estrutura_condicional/exercicio008/exercicio008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s06c54_estruturas_repetitivas_parte2/exercicio002/exercicio10.iml" filepath="$PROJECT_DIR$/s06c54_estruturas_repetitivas_parte2/exercicio002/exercicio10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s06c54_estruturas_repetitivas_parte2/exercicio003/exercicio11.iml" filepath="$PROJECT_DIR$/s06c54_estruturas_repetitivas_parte2/exercicio003/exercicio11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s06c54_estruturas_repetitivas_parte2/exercicio001/exercicio12.iml" filepath="$PROJECT_DIR$/s06c54_estruturas_repetitivas_parte2/exercicio001/exercicio12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s06c49_estruturas_repetitivas_parte1/exercicio002/exercicio13.iml" filepath="$PROJECT_DIR$/s06c49_estruturas_repetitivas_parte1/exercicio002/exercicio13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s06c49_estruturas_repetitivas_parte1/exercicio001/exercicio14.iml" filepath="$PROJECT_DIR$/s06c49_estruturas_repetitivas_parte1/exercicio001/exercicio14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s05c37_estrutura_condicional/exercicio002/exercicio15.iml" filepath="$PROJECT_DIR$/s05c37_estrutura_condicional/exercicio002/exercicio15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s05c37_estrutura_condicional/exercicio001/exercicio16.iml" filepath="$PROJECT_DIR$/s05c37_estrutura_condicional/exercicio001/exercicio16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s05c37_estrutura_condicional/exercicio006/exercicio17.iml" filepath="$PROJECT_DIR$/s05c37_estrutura_condicional/exercicio006/exercicio17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s05c37_estrutura_condicional/exercicio005/exercicio18.iml" filepath="$PROJECT_DIR$/s05c37_estrutura_condicional/exercicio005/exercicio18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s05c37_estrutura_condicional/exercicio004/exercicio19.iml" filepath="$PROJECT_DIR$/s05c37_estrutura_condicional/exercicio004/exercicio19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s04c30_estrutura_sequencial/exercicio001/exercicio2.iml" filepath="$PROJECT_DIR$/s04c30_estrutura_sequencial/exercicio001/exercicio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s05c37_estrutura_condicional/exercicio003/exercicio20.iml" filepath="$PROJECT_DIR$/s05c37_estrutura_condicional/exercicio003/exercicio20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s04c30_estrutura_sequencial/exercicio002/exercicio3.iml" filepath="$PROJECT_DIR$/s04c30_estrutura_sequencial/exercicio002/exercicio3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s08c70_introducao_poo/exercicio003/exercicio4.iml" filepath="$PROJECT_DIR$/s08c70_introducao_poo/exercicio003/exercicio4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s06c49_estruturas_repetitivas_parte1/exercicio003/exercicio5.iml" filepath="$PROJECT_DIR$/s06c49_estruturas_repetitivas_parte1/exercicio003/exercicio5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s06c54_estruturas_repetitivas_parte2/exercicio004/exercicio6.iml" filepath="$PROJECT_DIR$/s06c54_estruturas_repetitivas_parte2/exercicio004/exercicio6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s06c54_estruturas_repetitivas_parte2/exercicio006/exercicio7.iml" filepath="$PROJECT_DIR$/s06c54_estruturas_repetitivas_parte2/exercicio006/exercicio7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s06c54_estruturas_repetitivas_parte2/exercicio007/exercicio8.iml" filepath="$PROJECT_DIR$/s06c54_estruturas_repetitivas_parte2/exercicio007/exercicio8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s06c54_estruturas_repetitivas_parte2/exercicio005/exercicio9.iml" filepath="$PROJECT_DIR$/s06c54_estruturas_repetitivas_parte2/exercicio005/exercicio9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-completo.iml" filepath="$PROJECT_DIR$/.idea/java-completo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s03c18_introducao/s03c18_introducao.iml" filepath="$PROJECT_DIR$/s03c18_introducao/s03c18_introducao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s09c82_construtores_this_sobrecarga_encapsulamento/s09c82_construtores_this_sobrecarga_encapsulamento.iml" filepath="$PROJECT_DIR$/s09c82_construtores_this_sobrecarga_encapsulamento/s09c82_construtores_this_sobrecarga_encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s10c100_lista_1/s10c100_lista_1.iml" filepath="$PROJECT_DIR$/s10c100_lista_1/s10c100_lista_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s10c103_matrizes/s10c103_matrizes.iml" filepath="$PROJECT_DIR$/s10c103_matrizes/s10c103_matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s10c104_matriz_exericio/s10c104_matriz_exericio.iml" filepath="$PROJECT_DIR$/s10c104_matriz_exericio/s10c104_matriz_exericio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s10c89_vetores_01/s10c89_vetores_01.iml" filepath="$PROJECT_DIR$/s10c89_vetores_01/s10c89_vetores_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s10c90_vetores_02/s10c90_vetores_02.iml" filepath="$PROJECT_DIR$/s10c90_vetores_02/s10c90_vetores_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/s10c91_exercicios_propostos_vetores.iml" filepath="$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/s10c91_exercicios_propostos_vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s10c94_pensionato/s10c94_pensionato.iml" filepath="$PROJECT_DIR$/s10c94_pensionato/s10c94_pensionato.iml" />
+    </modules>
+  </component>
+</project>
