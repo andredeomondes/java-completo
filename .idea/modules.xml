@@ -45,11 +45,12 @@
       <module fileurl="file://$PROJECT_DIR$/s09c82_construtores_this_sobrecarga_encapsulamento/s09c82_construtores_this_sobrecarga_encapsulamento.iml" filepath="$PROJECT_DIR$/s09c82_construtores_this_sobrecarga_encapsulamento/s09c82_construtores_this_sobrecarga_encapsulamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/s10c100_lista_1/s10c100_lista_1.iml" filepath="$PROJECT_DIR$/s10c100_lista_1/s10c100_lista_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/s10c103_matrizes/s10c103_matrizes.iml" filepath="$PROJECT_DIR$/s10c103_matrizes/s10c103_matrizes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/s10c104_matriz_exericio/s10c104_matriz_exericio.iml" filepath="$PROJECT_DIR$/s10c104_matriz_exericio/s10c104_matriz_exericio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s10c104_matriz_exercicio/s10c104_matriz_exercicio.iml" filepath="$PROJECT_DIR$/s10c104_matriz_exercicio/s10c104_matriz_exercicio.iml" />
       <module fileurl="file://$PROJECT_DIR$/s10c89_vetores_01/s10c89_vetores_01.iml" filepath="$PROJECT_DIR$/s10c89_vetores_01/s10c89_vetores_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/s10c90_vetores_02/s10c90_vetores_02.iml" filepath="$PROJECT_DIR$/s10c90_vetores_02/s10c90_vetores_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/s10c91_exercicios_propostos_vetores.iml" filepath="$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/s10c91_exercicios_propostos_vetores.iml" />
       <module fileurl="file://$PROJECT_DIR$/s10c94_pensionato/s10c94_pensionato.iml" filepath="$PROJECT_DIR$/s10c94_pensionato/s10c94_pensionato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s11_date/s11_date.iml" filepath="$PROJECT_DIR$/s11_date/s11_date.iml" />
     </modules>
   </component>
 </project>
