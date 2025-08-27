@@ -43,7 +43,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/java-completo.iml" filepath="$PROJECT_DIR$/.idea/java-completo.iml" />
       <module fileurl="file://$PROJECT_DIR$/s03c18_introducao/s03c18_introducao.iml" filepath="$PROJECT_DIR$/s03c18_introducao/s03c18_introducao.iml" />
       <module fileurl="file://$PROJECT_DIR$/s09c82_construtores_this_sobrecarga_encapsulamento/s09c82_construtores_this_sobrecarga_encapsulamento.iml" filepath="$PROJECT_DIR$/s09c82_construtores_this_sobrecarga_encapsulamento/s09c82_construtores_this_sobrecarga_encapsulamento.iml" />
-      <module fileurl="file://$PROJECT_DIR$/s10c100_lista_1/s10c100_lista_1.iml" filepath="$PROJECT_DIR$/s10c100_lista_1/s10c100_lista_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s10c100_lista_01/s10c100_lista_01.iml" filepath="$PROJECT_DIR$/s10c100_lista_01/s10c100_lista_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/s10c103_matrizes/s10c103_matrizes.iml" filepath="$PROJECT_DIR$/s10c103_matrizes/s10c103_matrizes.iml" />
       <module fileurl="file://$PROJECT_DIR$/s10c104_matriz_exercicio/s10c104_matriz_exercicio.iml" filepath="$PROJECT_DIR$/s10c104_matriz_exercicio/s10c104_matriz_exercicio.iml" />
       <module fileurl="file://$PROJECT_DIR$/s10c89_vetores_01/s10c89_vetores_01.iml" filepath="$PROJECT_DIR$/s10c89_vetores_01/s10c89_vetores_01.iml" />
@@ -51,6 +51,10 @@
       <module fileurl="file://$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/s10c91_exercicios_propostos_vetores.iml" filepath="$PROJECT_DIR$/s10c91_exercicios_propostos_vetores/s10c91_exercicios_propostos_vetores.iml" />
       <module fileurl="file://$PROJECT_DIR$/s10c94_pensionato/s10c94_pensionato.iml" filepath="$PROJECT_DIR$/s10c94_pensionato/s10c94_pensionato.iml" />
       <module fileurl="file://$PROJECT_DIR$/s11_date/s11_date.iml" filepath="$PROJECT_DIR$/s11_date/s11_date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s12_c120_enums/s12_c120_enums.iml" filepath="$PROJECT_DIR$/s12_c120_enums/s12_c120_enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s12_c123_enums_01/s12_c123_enums_01.iml" filepath="$PROJECT_DIR$/s12_c123_enums_01/s12_c123_enums_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s12_c125_enums_02/s12_c125_enums_02.iml" filepath="$PROJECT_DIR$/s12_c125_enums_02/s12_c125_enums_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s12_c126_enums_03/s12_c126_enums_03.iml" filepath="$PROJECT_DIR$/s12_c126_enums_03/s12_c126_enums_03.iml" />
     </modules>
   </component>
 </project>
