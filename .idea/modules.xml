@@ -55,6 +55,11 @@
       <module fileurl="file://$PROJECT_DIR$/s12_c123_enums_01/s12_c123_enums_01.iml" filepath="$PROJECT_DIR$/s12_c123_enums_01/s12_c123_enums_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/s12_c125_enums_02/s12_c125_enums_02.iml" filepath="$PROJECT_DIR$/s12_c125_enums_02/s12_c125_enums_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/s12_c126_enums_03/s12_c126_enums_03.iml" filepath="$PROJECT_DIR$/s12_c126_enums_03/s12_c126_enums_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s13c130_heranca/s13c130_heranca.iml" filepath="$PROJECT_DIR$/s13c130_heranca/s13c130_heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s13c131_upcasting_downcasting/s13c131_upcasting_downcasting.iml" filepath="$PROJECT_DIR$/s13c131_upcasting_downcasting/s13c131_upcasting_downcasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s13c132_override/s13c132_override.iml" filepath="$PROJECT_DIR$/s13c132_override/s13c132_override.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s13c135_exercicio_resolvido/s13c135_exercicio_resolvido.iml" filepath="$PROJECT_DIR$/s13c135_exercicio_resolvido/s13c135_exercicio_resolvido.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s13c136_exercicio_fixacao/s13c136_exercicio_fixacao.iml" filepath="$PROJECT_DIR$/s13c136_exercicio_fixacao/s13c136_exercicio_fixacao.iml" />
     </modules>
   </component>
 </project>
