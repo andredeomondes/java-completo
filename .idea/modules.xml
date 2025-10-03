@@ -63,6 +63,10 @@
       <module fileurl="file://$PROJECT_DIR$/s13c137_classes_abstratas/s13c137_classes_abstratas.iml" filepath="$PROJECT_DIR$/s13c137_classes_abstratas/s13c137_classes_abstratas.iml" />
       <module fileurl="file://$PROJECT_DIR$/s13c138_metodos_abstratos/s13c138_metodos_abstratos.iml" filepath="$PROJECT_DIR$/s13c138_metodos_abstratos/s13c138_metodos_abstratos.iml" />
       <module fileurl="file://$PROJECT_DIR$/s13c139_exercicio_abstrato/s13c139_exercicio_abstrato.iml" filepath="$PROJECT_DIR$/s13c139_exercicio_abstrato/s13c139_exercicio_abstrato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s14c144_estrutura_try_catch/s14c144_estrutura_try_catch.iml" filepath="$PROJECT_DIR$/s14c144_estrutura_try_catch/s14c144_estrutura_try_catch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s14c145_stack_trace/s14c145_stack_trace.iml" filepath="$PROJECT_DIR$/s14c145_stack_trace/s14c145_stack_trace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s14c146_finally/s14c146_finally.iml" filepath="$PROJECT_DIR$/s14c146_finally/s14c146_finally.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s14c147_excecoes_personalizadas/s14c147_excecoes_personalizadas.iml" filepath="$PROJECT_DIR$/s14c147_excecoes_personalizadas/s14c147_excecoes_personalizadas.iml" />
     </modules>
   </component>
 </project>
