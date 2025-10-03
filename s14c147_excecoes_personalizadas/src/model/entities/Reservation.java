@@ -48,7 +48,7 @@ public class Reservation {
         Date now = new Date();
 
         if (checkIn.before(now) || checkIn.before(now)) {
-            throw new DomainException("model.entities.Reservation dates for update must be future dates");
+            throw new DomainException("Reservation dates for update must be future dates");
         }
         if (!checkOut.after(checkIn)) {
             throw new DomainException("Check-out date must be after check-in date");
