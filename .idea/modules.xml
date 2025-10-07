@@ -61,6 +61,13 @@
       <module fileurl="file://$PROJECT_DIR$/s13c135_exercicio_resolvido/s13c135_exercicio_resolvido.iml" filepath="$PROJECT_DIR$/s13c135_exercicio_resolvido/s13c135_exercicio_resolvido.iml" />
       <module fileurl="file://$PROJECT_DIR$/s13c136_exercicio_fixacao/s13c136_exercicio_fixacao.iml" filepath="$PROJECT_DIR$/s13c136_exercicio_fixacao/s13c136_exercicio_fixacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/s14c151_exercicio_excecoes/s14c151_exercicio_excecoes.iml" filepath="$PROJECT_DIR$/s14c151_exercicio_excecoes/s14c151_exercicio_excecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s15c155_filescanner/s15c155_filescanner.iml" filepath="$PROJECT_DIR$/s15c155_filescanner/s15c155_filescanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s15c156_filereader/s15c156_filereader.iml" filepath="$PROJECT_DIR$/s15c156_filereader/s15c156_filereader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s15c157_try_resources/s15c157_try_resources.iml" filepath="$PROJECT_DIR$/s15c157_try_resources/s15c157_try_resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s15c158_filewriter/s15c158_filewriter.iml" filepath="$PROJECT_DIR$/s15c158_filewriter/s15c158_filewriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s15c159_manipulacao_pastas/s15c159_manipulacao_pastas.iml" filepath="$PROJECT_DIR$/s15c159_manipulacao_pastas/s15c159_manipulacao_pastas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s15c160_info/s15c160_info.iml" filepath="$PROJECT_DIR$/s15c160_info/s15c160_info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s15c161_exercicios_files/s15c161_exercicios_files.iml" filepath="$PROJECT_DIR$/s15c161_exercicios_files/s15c161_exercicios_files.iml" />
     </modules>
   </component>
 </project>
