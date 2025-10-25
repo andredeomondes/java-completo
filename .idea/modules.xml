@@ -74,6 +74,7 @@
       <module fileurl="file://$PROJECT_DIR$/s16c174_heranca_multipla/s16c174_heranca_multipla.iml" filepath="$PROJECT_DIR$/s16c174_heranca_multipla/s16c174_heranca_multipla.iml" />
       <module fileurl="file://$PROJECT_DIR$/s16c175_interface_comparable/s16c175_interface_comparable.iml" filepath="$PROJECT_DIR$/s16c175_interface_comparable/s16c175_interface_comparable.iml" />
       <module fileurl="file://$PROJECT_DIR$/s16c176_default/s16c176_default.iml" filepath="$PROJECT_DIR$/s16c176_default/s16c176_default.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s17c179_introducao_generics/s17c179_introducao_generics.iml" filepath="$PROJECT_DIR$/s17c179_introducao_generics/s17c179_introducao_generics.iml" />
     </modules>
   </component>
 </project>
