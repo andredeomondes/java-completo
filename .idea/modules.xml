@@ -76,6 +76,8 @@
       <module fileurl="file://$PROJECT_DIR$/s16c176_default/s16c176_default.iml" filepath="$PROJECT_DIR$/s16c176_default/s16c176_default.iml" />
       <module fileurl="file://$PROJECT_DIR$/s17c179_introducao_generics/s17c179_introducao_generics.iml" filepath="$PROJECT_DIR$/s17c179_introducao_generics/s17c179_introducao_generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/s17c180_genericos_delimitados/s17c180_genericos_delimitados.iml" filepath="$PROJECT_DIR$/s17c180_genericos_delimitados/s17c180_genericos_delimitados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s17c182_curingas_delimitados/s17c182_curingas_delimitados.iml" filepath="$PROJECT_DIR$/s17c182_curingas_delimitados/s17c182_curingas_delimitados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s17c182_curingas_delimitados02/s17c182_curingas_delimitados02.iml" filepath="$PROJECT_DIR$/s17c182_curingas_delimitados02/s17c182_curingas_delimitados02.iml" />
     </modules>
   </component>
 </project>
