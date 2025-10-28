@@ -1,0 +1,49 @@
+package application;
+
+import com.sun.source.tree.UsesTree;
+import entities.LogEntry;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import java.time.Instant;
+import java.time.LocalDate;
+import java.util.*;
+
+public class Program {
+    public static void main(String[] args) {
+        System.out.println(" -------------------- Exercício Resolvido [ Set ] -------------------- ");
+
+        Locale.setDefault(Locale.US);
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("--- [ REGISTRO DE LOGS ] ---");
+        System.out.print("Digite o caminho do arquivo (CSV): ");
+        String path = sc.nextLine();
+
+        try (BufferedReader br = new BufferedReader(new FileReader(path))) {
+
+            Set<LogEntry> set = new HashSet<>();
+
+            String line = br.readLine();
+            while (line != null) {
+
+                String[] fields = line.split(" ");
+                String username = fields[0];
+                Date moment = Date.from(Instant.parse(fields[1]));
+                set.add(new LogEntry(username, moment));
+
+                line = br.readLine();
+
+            }
+            System.out.println("Total de usuários únicos: " + set.size());
+
+        } catch (IOException e) {
+            System.out.println("Erro ao ler o arquivo: " + e.getMessage());
+        }
+        sc.close();
+    }
+
+
+}
